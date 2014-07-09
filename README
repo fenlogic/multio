@@ -1,0 +1,24 @@
+This directory contains the files for the multio design.
+
+Important Note: Building one at a time of these boards will
+be expensive. It is recomended to build in batches to reduce
+costs.
+
+All files are released under the GPLv3 licence.
+
+docs      : folder with documentation
+   multio.docx: manual in Microsoft word format
+src       : Example program files
+   fill128.py, walk128.py: example python programs which
+            use the Raspberry-Pi I2C port to access the board
+schematics: Folder with schematic files
+   MULTIO_E.DSN: Schematic database Orcad 16.4 format
+   multio.pdf : manual in Acorbat format
+
+pcb
+   MULTIO.pcb  : PCB design in Pads format
+   cam       : folder with the Gerber files for the multio board
+
+
+LICENCE   : Copy of the GNU General Public License v3
+README    : this file
