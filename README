@@ -22,7 +22,7 @@ portfolio it would be nice to hear from you.
 docs      : folder with documentation
             multio.docx: manual in Microsoft word format
 src       : Example program files
-   f        ill128.py, walk128.py: example python programs which
+            fill128.py, walk128.py: example python programs which
             use the Raspberry-Pi I2C port to access the board
 schematics: Folder with schematic files
             MULTIO_E.DSN: Schematic database Orcad 16.4 format
