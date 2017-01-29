@@ -1,4 +1,14 @@
 This directory contains the files for the multio design.
+The multio PCB has a maximum of 128 I/O ports which can be
+access over an I2C interface. A working prototype has been built.
+Example Python programs for the Raspberry-Pi are available too.
+
+This desifgn has been on Github for free for a long time but under 
+my personal account. Nobody was interetes or they did not know it
+exists. So I moved it alongside the VGA666 adpater.
+
+The PCB design is such that sections of 16 I/O ports can be 
+removed from the PCB thus giving 16, 32, 64 etc. I/O ports.
 
 Important Note: Building one at a time of these boards will
 be expensive. It is recomended to build in batches to reduce
